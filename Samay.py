@@ -17,7 +17,7 @@ class samay:
     def __init__(self, func, args=()):
         self._func = func
         self._args = args
-        self._loop = False  # _loop holds the number of loops to increase execution time of a function, if _loop = False, then loop is equal to 0 (Zero).
+        self._loop = 1  # _loop holds the number of loops to increase execution time of a function,_loop is equal to 1.
         self._object_name = None  # _object_name is hold the Temporary name for the initialized objects.
 
     # Defining object_name as a property of a function.
@@ -41,7 +41,7 @@ class samay:
     # Setting loop as a property.
     @loop.setter
     def loop(self, loops):
-        if loops == 0:
+        if loops == 1:
             return None
         else:
             self._loop = loops
