@@ -17,11 +17,8 @@ class samay:
     def __init__(self, func, args=()):
         self._func = func
         self._args = args
-<<<<<<< HEAD
         self._loop = 1  # _loop holds the number of loops to increase execution time of a function, _loop is equal to 1 by default.
-=======
         self._loop = 1  # _loop holds the number of loops to increase execution time of a function,_loop is equal to 1.
->>>>>>> a05c43f704a9349017625c06a3232291161465b4
         self._object_name = None  # _object_name is hold the Temporary name for the initialized objects.
 
     # Defining object_name as a property of a function.

@@ -35,27 +35,24 @@ Setting Object name
 S1.object_name = "object1"
 S2.object_name = "object2"
 ```
-<<<<<<< HEAD
-=======
-
->>>>>>> a05c43f704a9349017625c06a3232291161465b4
-Setting loop
+Setting Loops
 ```python
 S1.loop = 100
 S2.loop = 100
 ```
-<<<<<<< HEAD
-**_NOTE_** : Increase the numbers of loops to increase accuracy. 
-=======
+
 **_NOTE_** : Increase the number of loops to increase accuracy.
->>>>>>> a05c43f704a9349017625c06a3232291161465b4
 
 Comparing two functions with respect to time
 ```python
 Result = S1.compare_function(S2)
 ```
+## Feedback
+if you have any feedback, please reach out to me at sv19projects@gmail.com
 
 ## Authors
 
 - [@saurav-2k01](https://github.com/saurav-2k01)
 
+## License
+[MIT license](LICENCE)
