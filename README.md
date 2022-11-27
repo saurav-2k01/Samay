@@ -35,13 +35,14 @@ Setting Object name
 S1.object_name = "object1"
 S2.object_name = "object2"
 ```
-**_NOTE_** Increase the number of loops to increase accuracy.
 
 Setting loop
 ```python
 S1.loop = 100
 S2.loop = 100
 ```
+**_NOTE_** Increase the number of loops to increase accuracy.
+
 Comparing two functions with respect to time
 ```python
 Result = S1.compare_function(S2)
