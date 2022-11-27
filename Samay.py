@@ -18,7 +18,6 @@ class samay:
         self._func = func
         self._args = args
         self._loop = 1  # _loop holds the number of loops to increase execution time of a function, _loop is equal to 1 by default.
-        self._loop = 1  # _loop holds the number of loops to increase execution time of a function,_loop is equal to 1.
         self._object_name = None  # _object_name is hold the Temporary name for the initialized objects.
 
     # Defining object_name as a property of a function.
