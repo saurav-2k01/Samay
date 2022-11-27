@@ -9,7 +9,7 @@ Samay is a python module, that can help to get execution time of a function, or 
 ## Usage/Examples
 Creating object
 ```python
-import samay from Samay
+from Samay import samay
 def func1(a, b):
     pass
 
@@ -40,6 +40,8 @@ Setting loop
 S1.loop = 100
 S2.loop = 100
 ```
+**_NOTE_** : Increase the numbers of loops to increase accuracy. 
+
 Comparing two functions with respect to time
 ```python
 Result = S1.compare_function(S2)
