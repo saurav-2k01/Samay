@@ -37,6 +37,7 @@ S2.object_name = "object2"
 ```
 NOTE - Increase the number of loops to increase accuracy.
 Setting loop
+
 ```python
 S1.loop = 100
 S2.loop = 100
