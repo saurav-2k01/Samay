@@ -9,7 +9,7 @@ Samay is a python module, that can help to get execution time of a function, or 
 ## Usage/Examples
 Creating object
 ```python
-import samay from Samay
+from Samay import samay
 def func1(a, b):
     pass
 
