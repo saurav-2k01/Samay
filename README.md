@@ -41,7 +41,7 @@ Setting loop
 S1.loop = 100
 S2.loop = 100
 ```
-**_NOTE_** Increase the number of loops to increase accuracy.
+**_NOTE_** : Increase the number of loops to increase accuracy.
 
 Comparing two functions with respect to time
 ```python
