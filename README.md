@@ -35,7 +35,7 @@ Setting Object name
 S1.object_name = "object1"
 S2.object_name = "object2"
 ```
-NOTE - Increase the number of loops to increase accuracy.
+**_NOTE_** - Increase the number of loops to increase accuracy.
 Setting loop
 
 ```python
