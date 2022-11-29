@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Samay
+Version: 0.0.1
+Summary: Samay
+Home-page: UNKNOWN
+Author: Saurav Sharma
+Author-email: sv19projects@gmail.com
+License: UNKNOWN
+Description: A packay to find out execution time of a function, or compare two function with respect to execution time.
+Keywords: Samay,samay,time,execution,execution time,run time,runtime,function runtime,function execution time,compare function
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
