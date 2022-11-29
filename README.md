@@ -5,6 +5,16 @@ Samay is a python module, that can help to get execution time of a function, or 
 
 
 
+## Installation
+
+Install Samay with pip
+
+```bash
+  pip install samay
+```
+Download the file from PyPI
+
+[Samay](https://pypi.org/project/Samay/)
 
 ## Usage/Examples
 Creating object
