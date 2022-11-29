@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: Samay
-Version: 0.0.2
+Version: 0.0.3
 Summary: Samay
 Home-page: UNKNOWN
 Author: Saurav Sharma
@@ -9,7 +9,7 @@ License: UNKNOWN
 Description: A packay to find out execution time of a function, or compare two function with respect to execution time.
 Keywords: Samay,samay,time,execution,execution time,run time,runtime,function runtime,function execution time,compare function
 Platform: UNKNOWN
-Classifier: Development Status :: 1 - Planning
+Classifier: Development Status :: 5 - Production/Stable
 Classifier: Intended Audience :: Developers
 Classifier: Programming Language :: Python :: 3
 Classifier: Operating System :: Unix
