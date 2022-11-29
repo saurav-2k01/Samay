@@ -19,7 +19,7 @@ setup(
     install_requires=[""],
     keywords=["Samay","samay","time","execution","execution time","run time","runtime","function runtime","function execution time","compare function"],
     classifiers=[
-        "Development Status :: 1 - planning",
+        "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
