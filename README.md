@@ -55,4 +55,4 @@ if you have any feedback, please reach out to me at sv19projects@gmail.com
 - [@saurav-2k01](https://github.com/saurav-2k01)
 
 ## License
-[MIT license](../LICENSE)
+[MIT license](LICENSE)
