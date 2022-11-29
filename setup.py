@@ -2,15 +2,14 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VSERSION = "0.0.1"
+VERSION = "0.0.2"
 DESCRIPTION = "Samay"
 LONG_DESCRIPTION = "A packay to find out execution time of a function, or compare two function with respect to execution time."
 
 # Setting up
-
 setup(
     name="Samay",
-    version=VSERSION,
+    version=VERSION,
     author="Saurav Sharma",
     author_email="sv19projects@gmail.com",
     description=DESCRIPTION,
@@ -19,7 +18,7 @@ setup(
     packages=find_packages(),
     install_requires=[""],
     keywords=["Samay","samay","time","execution","execution time","run time","runtime","function runtime","function execution time","compare function"],
-    classfiers=[
+    classifiers=[
         "Development Status :: 1 - planning",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
