@@ -1,10 +1,17 @@
 
 # Samay
 
-Samay is a python module, that can help to get execution time of a function, or can be used to compare two different function at the same time with respect to time.
+Samay is a python module, that help getting execution time of a function, or can be used to compare two different function at the same time with respect to time.
 
 
+## Installation
 
+Install my-project with pip
+
+```bash
+  pip install samay
+```
+Download [Samay](https://pypi.org/project/Samay/) from PyPI.
 
 ## Usage/Examples
 Creating object
