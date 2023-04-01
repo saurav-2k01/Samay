@@ -16,7 +16,7 @@ Download [Samay](https://pypi.org/project/Samay/) from PyPI.
 ## Usage/Examples
 Creating object
 ```python
-from Samay import samay
+from Samay.Samay import samay
 def func1(a, b):
     pass
 
