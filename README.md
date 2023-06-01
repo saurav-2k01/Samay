@@ -57,7 +57,7 @@ Result = S1.compare_function(S2)
 ## Feedback
 if you have any feedback, please reach out to me at sv19projects@gmail.com
 
-##Contributing
+## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
