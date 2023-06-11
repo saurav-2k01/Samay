@@ -84,14 +84,12 @@ exe_time = linearS_earch.get_exe_time(loops=100)
 ```python
 print(exe_time)
 ```
+**_NOTE_** : Increase the number of loops to increase accuracy, default numbers of loops is 10.
 
 ## Result
 ```python
 0.003091573715209961
 ```
-
-**_NOTE_** : Increase the number of loops to increase accuracy, default numbers of loops is 10.
-
 Testing two or more functions at once using Samay_Bulk class.
 ```python
 data = [
