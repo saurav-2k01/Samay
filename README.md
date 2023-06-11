@@ -101,7 +101,7 @@ data = [
 result = Samay_Bulk(data)
 ```
 ```python
-result.test_bulk(10000)
+result.test_bulk(loops=10000)
 ```
 ```python
 print(result.result)
