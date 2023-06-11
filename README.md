@@ -80,9 +80,11 @@ linear_Search = Samay(
 **_NOTE_** : Giving value to function_name is optional.
 ```python
 exe_time = linearS_earch.get_exe_time(loops=100)
-print(exe_time)
-
 ```
+```python
+print(exe_time)
+```
+
 ## Result
 ```python
 0.003091573715209961
