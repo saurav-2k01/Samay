@@ -81,11 +81,10 @@ linear_Search = Samay(
 ```python
 exe_time = linearS_earch.get_exe_time(loops=100)
 ```
+**_NOTE_** : Increase the number of loops to increase accuracy, default numbers of loops is 10.
 ```python
 print(exe_time)
 ```
-**_NOTE_** : Increase the number of loops to increase accuracy, default numbers of loops is 10.
-
 ## Result
 ```python
 0.003091573715209961
