@@ -117,7 +117,7 @@ result.bar_chart()
 ## Result
 ![Bar Chart](https://github.com/saurav-2k01/Samay/blob/master/Example_test.png)
 
-**_NOTE_**: Any function can be tested, as Samay is not limited to only searching algorithms.
+**_NOTE_** : Any function can be tested, as Samay is not limited to only searching algorithms.
 ## Feedback
 if you have any feedback, please reach out to me at sv19projects@gmail.com
 
