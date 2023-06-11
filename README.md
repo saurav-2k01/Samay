@@ -54,6 +54,7 @@ Comparing two functions with respect to time
 ```python
 Result = S1.compare_function(S2)
 ```
+![barchart](https://github.com/saurav-2k01/Samay/blob/master/Example_test.png)
 ## Feedback
 if you have any feedback, please reach out to me at sv19projects@gmail.com
 
