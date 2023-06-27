@@ -23,7 +23,7 @@ Download [Samay](https://pypi.org/project/Samay/) from PyPI.
 ## Usage/Examples
 Importing Samay
 ```python
-from Samay.Samay import samay
+from Samay.Samay import Samay
 ```
 Example array
 ```python
