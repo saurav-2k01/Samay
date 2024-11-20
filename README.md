@@ -139,7 +139,7 @@ We welcome **issues, feature requests**, and **contributions**. If you'd like to
 Every little bit helps the project thrive!
 
 **Contact & Collaboration**:  
-- For general inquiries or collaborations, email: [sauravsharmas.23.s@gmail.com](mailto:sauravsharmas.23.s@gmail.com)
+- For general inquiries or collaborations, email: [sauravsharmas.23.s@gmail.com](mailto:sv19projects@gmail.com)
 - Join discussions and share your feedback: [GitHub Discussions](https://github.com/saurav-2k01/Samay/discussions)
 
 ## Authors
