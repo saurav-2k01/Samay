@@ -121,9 +121,26 @@ result.bar_chart()
 ## Feedback
 if you have any feedback, please reach out to me at sv19projects@gmail.com
 
-## Contributing
+## 🌟 Star and Contribute to Samay!
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+If you find **Samay** helpful for optimizing your Python code and measuring performance, please consider giving it a star ⭐ on GitHub to show your support!
+
+We welcome **issues, feature requests**, and **contributions**. If you'd like to help improve Samay, feel free to:
+- **Fork the repository** and create a pull request with your improvements.
+- **Report bugs** or suggest features by opening an issue.
+- **Share Samay** with your friends and colleagues who might benefit from it.
+
+🔧 **Want to help Samay grow?**  
+- Star the repo to show your support!
+- Fork and contribute with new features or fixes.
+- Report bugs or suggest improvements in the Issues tab.
+- Share Samay on social media and among your developer networks.
+
+Every little bit helps the project thrive!
+
+**Contact & Collaboration**:  
+- For general inquiries or collaborations, email: [sauravsharmas.23.s@gmail.com](mailto:sauravsharmas.23.s@gmail.com)
+- Join discussions and share your feedback: [GitHub Discussions](https://github.com/saurav-2k01/Samay/discussions)
 
 ## Authors
 
